@@ -1,0 +1,52 @@
+<! DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+     <meta name="viewport" contnet="width=device-width, initial-scale=1.0">
+      <title>Moka Java Cafe</title>
+</head>
+<body>
+     <header>
+           <h1>Moka Java Cafe</h1>
+           <nav> 
+                <ul>
+                       <li><a href="#home">Home</a></li>
+                       <li><a href="#menu">Menu</a></li>
+                      <li><a href="#events">Our Events</a></li>
+                       <li><a href="#about">About Us</a></li> 
+               </ul>
+            </nav>
+        </header>
+<main>
+    <section id="home">
+              <h2>Welcome to Moka Java Cafe</h2>
+              <p> </p>
+     </section>
+      <section id="menu"> [Preview to the menu]
+               <h2>Our Signature Drinks</h2>
+                
+. Moka Java Latte  
+. Iced Sorrel Lemonade 
+. Turmeric Ginger Latte 
+Add pictures 
+link for menu page 
+     
+     </section>
+     <section id="events">
+           <h2>Our Events</h2>
+           <p> Some of our popular events include the </p>
+link to events page
+Newsletter signup for events
+       </section>
+       <section id="about>
+       <h2>About Us</h2>
+       <p>  </p>
+       </section>
+       <section>
+       <h2>Location and Hours</h2>
+       <p> We are located at </p>
+       <h1>Opening Hours</h1>
+       <p> Monday to Friday</p>
+       <p> 10 am- 8pm</p>
+       <p> Saturday</p>
+       </section>
